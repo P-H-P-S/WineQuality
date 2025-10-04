@@ -3,7 +3,7 @@ Este repositório contém o projeto de qualidade de vinho de portugal, que teve 
 ## Descrição
 o projeto em questão é uma solução utilizando jupyter e a  metodologia crisp-dm para auxiliar na tomada de decisões relacionadas à qualidade e monitoramento dos vinhos. O Data Mart é construído com base em uma modelagem simples e de fácil interpretação;
 ## Objetivo
-O objetivo principal desse projeto é proporcionar a tomada de decisão e classificação de vinhos baseadas em suas propriedades físico-qu
+O objetivo principal desse projeto é proporcionar a tomada de decisão e classificação de vinhos baseadas em suas propriedades físico-químicas..
 
 ## Tecnologias Utilizadas
 Google Colab / Vscode
