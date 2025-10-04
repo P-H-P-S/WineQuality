@@ -12,6 +12,6 @@ Pandas, Scikt-Learn
 ## Estrutura do Repositório  
 O repositório está organizado da seguinte forma:  
 
-- 
-- docs: o Notebook em .ipynb
+- data: o dataframe
+- docs: o Notebook com o script em .ipynb
 - apresentação: o material desenvolvido a partir dos dados fornecidos.
